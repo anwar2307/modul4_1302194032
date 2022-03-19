@@ -1,0 +1,5 @@
+C:\Users\user\Anwar Yusuf\modul 4\Modul4_1302194032\Modul4_1302194032\obj\Debug\net6.0\Modul4_1302194032.csproj.AssemblyReference.cache
+C:\Users\user\Anwar Yusuf\modul 4\Modul4_1302194032\Modul4_1302194032\obj\Debug\net6.0\Modul4_1302194032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Anwar Yusuf\modul 4\Modul4_1302194032\Modul4_1302194032\obj\Debug\net6.0\Modul4_1302194032.AssemblyInfoInputs.cache
+C:\Users\user\Anwar Yusuf\modul 4\Modul4_1302194032\Modul4_1302194032\obj\Debug\net6.0\Modul4_1302194032.AssemblyInfo.cs
+C:\Users\user\Anwar Yusuf\modul 4\Modul4_1302194032\Modul4_1302194032\obj\Debug\net6.0\Modul4_1302194032.csproj.CoreCompileInputs.cache
